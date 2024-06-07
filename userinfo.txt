@@ -1,0 +1,1 @@
+Users should be able to type in their information on the sign in page
